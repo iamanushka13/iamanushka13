@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Anushka Kudu👋
 
 <!--
-**iamanushka13/iamanushka13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Computer Engineering student
+🚀 Exploring Generative AI, Full Stack Web Development 
+📚 Currently learning Java, DSA, and JavaScript   
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/anushkakudu/)
 
-Here are some ideas to get you started:
+# My Skills
+💻 Languages: Java, C++, Python(basic), HTML, CSS, JavaScript
+🛠️ Tools: GitHub, VS Code, NetBeans, Canva, Figma, Photoshop, Inkscape
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# How to reach me?
+email: kuduanudee13@gmail.com
 -->
