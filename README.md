@@ -1,9 +1,8 @@
 ## Hi there, I'm Anushka Kudu👋
 
-<!--
 💻 I'm a Computer Engineering student
 🚀 Exploring Generative AI, Full Stack Web Development 
-📚 Currently learning Java, DSA, and JavaScript   
+📚 Currently learning Java Backend, Machine Learning.  
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/anushkakudu/)
 
 # My Skills
@@ -12,4 +11,3 @@
 
 # How to reach me?
 email: kuduanudee13@gmail.com
--->
